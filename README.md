@@ -52,7 +52,8 @@ meses = 24              # Período de 2 anos
 
 O resultado é um gráfico de barras comparando os saldos acumulados no CDI e na Poupança ao longo do período especificado. Os valores acumulados são exibidos no topo de cada barra para facilitar a visualização.
 
-![Gráfico de Comparação](path/para/sua/imagem.png)
+![image](https://github.com/eltonsarmanho/CalculoCDI/assets/28907902/633b90de-b81c-44a1-bf28-49d36ca7f4a2)
+
 
 ## Contribuição
 
